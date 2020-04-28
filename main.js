@@ -210,7 +210,7 @@ const DEFAULT_WIDTH = 880;
 // otherwise integration test fail
 const DEFAULT_HEIGHT = 820;
 const MIN_WIDTH = 880;
-const MIN_HEIGHT = 820;
+const MIN_HEIGHT = 520;
 const BOUNDS_BUFFER = 100;
 
 function isVisible(window, bounds) {
